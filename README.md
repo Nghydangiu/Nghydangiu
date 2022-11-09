@@ -38,7 +38,7 @@
 
       h1 {
 
-        color: red;
+        color: pink;
 
       }
 
@@ -168,7 +168,7 @@
 
   <body>
 
-    <h1>Huá»³nh NhÆ°</h1>
+    <h1>Anh iu bé nhiều lắm</h1>
 
     <div class="box">
 
